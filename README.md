@@ -119,13 +119,13 @@ The dataset contains marketing campaign information, including:
 
 - Google Ads generated the highest revenue.
 
-- Mobile campaigns showed strong performance.
+- Instagram achieved the highest Return on Investment (ROI).
 
-- Marketing performance varied across countries.
+- Product Launch was the highest-performing campaign based on total revenue.
 
-- SQL queries helped identify the best-performing campaigns.
+- Mobile campaigns demonstrated strong overall performance across multiple marketing channels.
 
-
+- SQL analysis helped identify high-performing marketing channels and campaigns for better business decision-making.
 
 ---
 

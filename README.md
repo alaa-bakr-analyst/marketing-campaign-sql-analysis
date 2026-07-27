@@ -158,8 +158,7 @@ marketing-campaign-sql-analysis
 
 ### Revenue and ROI by Marketing Channel
 
-![SQL Results](images/sql-results.png)
-
+![SQL Results](sql-result.png)
 
 
 

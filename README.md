@@ -1,8 +1,7 @@
-Marketing Campaign Performance Analysis
+# 📊 Marketing Campaign Performance Analysis
 
 
-
-\## Overview
+## Overview
 
 
 
@@ -14,25 +13,25 @@ The objective is to evaluate campaign performance, compare marketing channels, a
 
 
 
-\---
+---
 
 
 
-\## Tools
+## Tools
 
 
 
-\- PostgreSQL
+- PostgreSQL
 
-\- Neon
+- Neon
 
-\- SQL
+- SQL
 
-\- GitHub
+- GitHub
 
 
 
-\---
+---
 
 
 
@@ -44,23 +43,23 @@ The dataset contains marketing campaign information, including:
 
 
 
-\- Campaign Name
+- Campaign Name
 
-\- Marketing Channel
+- Marketing Channel
 
-\- Country
+- Country
 
-\- Device
+- Device
 
-\- Marketing Spend
+- Marketing Spend
 
-\- Impressions
+- Impressions
 
-\- Clicks
+- Clicks
 
-\- Conversions
+- Conversions
 
-\- Revenue
+- Revenue
 
 
 
@@ -68,49 +67,23 @@ The dataset contains marketing campaign information, including:
 
 
 
-\---
+---
 
 
 
-\## Business Questions
+## Business Questions
 
 
 
-\- Which marketing channel generated the highest revenue?
+- Which marketing channel generated the highest revenue?
 
-\- Which country achieved the highest revenue?
+- Which country achieved the highest revenue?
 
-\- Which campaign generated the most conversions?
+- Which campaign generated the most conversions?
 
-\- Which device performed better?
+- Which device performed better?
 
-\- Which marketing channel had the highest ROI?
-
-
-
-\---
-
-
-
-\## SQL Skills Demonstrated
-
-
-
-\- CREATE TABLE
-
-\- INSERT INTO
-
-\- SELECT
-
-\- WHERE
-
-\- GROUP BY
-
-\- ORDER BY
-
-\- Aggregate Functions (SUM, AVG)
-
-\- Calculated Metrics (ROI \& Conversion Rate)
+- Which marketing channel had the highest ROI?
 
 
 
@@ -118,25 +91,51 @@ The dataset contains marketing campaign information, including:
 
 
 
-\## Key Findings
+## SQL Skills Demonstrated
 
 
 
-\- Google Ads generated the highest revenue.
+- CREATE TABLE
 
-\- Mobile campaigns showed strong performance.
+- INSERT INTO
 
-\- Marketing performance varied across countries.
+- SELECT
 
-\- SQL queries helped identify the best-performing campaigns.
+- WHERE
+
+- GROUP BY
+
+- ORDER BY
+
+- Aggregate Functions (SUM, AVG)
+
+- Calculated Metrics (ROI \& Conversion Rate)
 
 
 
-\---
+---
 
 
 
-\## Project Structure
+## Key Findings
+
+
+
+- Google Ads generated the highest revenue.
+
+- Mobile campaigns showed strong performance.
+
+- Marketing performance varied across countries.
+
+- SQL queries helped identify the best-performing campaigns.
+
+
+
+---
+
+
+
+## Project Structure
 
 
 
@@ -156,15 +155,15 @@ marketing-campaign-sql-analysis
 
 
 
-\---
+---
 
 
 
-\## Author
+## Author
 
 
 
-\*Alaa Bakr\*
+*Alaa Bakr*
 
 
 

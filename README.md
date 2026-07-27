@@ -158,13 +158,30 @@ marketing-campaign-sql-analysis
 
 ### Revenue and ROI by Marketing Channel
 
+
+The following query calculates the total marketing spend, total revenue, total profit, and ROI percentage for each marketing channel.
+
+
+
 ![SQL Results](sql-result.png)
 
+
+*Key Insight:*
+Instagram achieved the highest ROI, followed by Google Ads, while LinkedIn had the lowest ROI among the analyzed channels.
+
+
+
+
 ### Top 5 Campaigns by Revenue
+
+
+This query identifies the five highest-performing marketing campaigns based on total revenue and total conversions.
+
 
 ![Top 5 Campaigns](sql-resul-png2.png)
 
 
+*Key Insight:* Product Launch generated the highest revenue, followed by New Year Offers.
 
 ## Author
 

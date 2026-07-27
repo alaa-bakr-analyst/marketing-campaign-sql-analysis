@@ -154,6 +154,14 @@ marketing-campaign-sql-analysis
 
 
 
+## Results Preview
+
+### Revenue and ROI by Marketing Channel
+
+![SQL Results](images/sql-results.png)
+
+
+
 
 
 

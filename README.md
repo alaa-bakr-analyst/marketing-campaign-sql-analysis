@@ -17,16 +17,12 @@ The objective is to evaluate campaign performance, compare marketing channels, a
 
 
 
+
 ## Tools
 
-
-
 - PostgreSQL
-
-- Neon
-
 - SQL
-
+- Neon Database
 - GitHub
 
 
@@ -35,7 +31,7 @@ The objective is to evaluate campaign performance, compare marketing channels, a
 
 
 
-\## Dataset
+## Dataset
 
 
 

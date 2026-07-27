@@ -155,8 +155,6 @@ marketing-campaign-sql-analysis
 
 
 
----
-
 
 
 ## Author
